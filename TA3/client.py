@@ -117,7 +117,7 @@ def move_player(steps, color):
 
     # Access wining_message as global
     
-    # Check if 'red' in message and set the color variable to red or yellow accordingly. 
+    # Check if 'Player1' in message and set the color variable to red or yellow accordingly. 
     
     # Change the text of wining_message to message and fill to color
     
